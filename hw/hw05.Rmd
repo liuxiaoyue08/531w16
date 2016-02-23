@@ -1,0 +1,45 @@
+---
+title: "Homework 5, due in class on Tues 2/16"
+author: "Stats 531, Winter 2016"
+output:
+  html_document:
+    theme: flatly
+    toc: yes
+---
+
+\newcommand\prob{\mathbb{P}}
+\newcommand\E{\mathbb{E}}
+\newcommand\var{\mathrm{Var}}
+\newcommand\cov{\mathrm{Cov}}
+
+-----------
+
+This homework gives you some experience at algebraic manipulation of POMP models by deriving the prediction, filtering and smoothing formulas in Chapter 9 of the notes.  Please read the revised version of Chapter 9, with many typos corrected, posted online.
+
+
+The calculations are all applications of basic identities for joint, conditional and marginal probability density functions. You may follow the hints in Section 9.2.5 of the notes.
+
+
+Please say explicitly when you use the Markov property. Also, write explicitly when and how you use basic identities such as those provided in Section 9.2.5.
+
+
+Please turn in your homework on paper, in class.
+
+--------
+
+**<big>Question 5.1</big>**. Derive the identity [MP2].
+
+
+**<big>Question 5.2</big>**. Derive the prediction formula, [MP4].
+
+
+**<big>Question 5.3</big>**. Derive the filtering formulas [MP5] and [MP6].
+
+
+**<big>Question 5.4</big>**. Derive the backward recursion formulas [MP8] and [MP9].
+
+
+**<big>Question 5.5</big>**. Derive the smoothing formula [MP10].
+
+
+--------
